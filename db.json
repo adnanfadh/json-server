@@ -1,6 +1,6 @@
 {
   "Kehadiran": [
-    { "id": 1, "NamaLengkap": "json-server", "JumlahHadir": 1, "Kehadiran": 1 }
+    { "id": 1, "NamaLengkap": "json-server", "JumlahHadir": 1, "Kehadiran": "Hadir" }
   ],
   "Komentar": [
     { "id": 1, "NamaLengkap": "some comment", "Komentar": 1 }
