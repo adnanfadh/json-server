@@ -1,9 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "Kehadiran": [
+    { "id": 1, "NamaLengkap": "json-server", "JumlahHadir": 1, "Kehadiran": 1 }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "Komentar": [
+    { "id": 1, "NamaLengkap": "some comment", "Komentar": 1 }
+  ]
 }
